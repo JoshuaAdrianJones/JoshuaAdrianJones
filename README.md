@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Web-FastAPI-informational?style=flat&logo=fastapi&color=18a558)
 ![](https://img.shields.io/badge/Web-Django-informational?style=flat&logo=django&color=E34F26)
-![](https://img.shields.io/badge/Web-Django-informational?style=flat&logo=flask&color=2ff3e0)
+![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=flask&color=2ff3e0)
 ![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&color=61DAFB)
 
 
