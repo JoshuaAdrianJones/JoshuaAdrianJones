@@ -67,6 +67,6 @@ I don't have a formal CS background, most of what I've learned is from online re
 I would love to talk about any of: coding, startups, Python, JS, Coffee, Rock climbing, 80's music and poolside nostalgia, mechanical engineering, software engineering, remote work, emacs, electric guitar and music theory.
 
 
-#### In the past I made cars for James Bond...
+#### In my previous career I made cars for James Bond...
 
  I have strong experience in product management and new product launch from my time in the automotive sector working for [Aston Martin](https://www.astonmartin.com)
