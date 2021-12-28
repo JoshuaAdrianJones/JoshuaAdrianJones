@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Joshua, I'm a fully remote tech worker based in the UK
+## Hi there 👋 I'm Joshua, I'm a developer based in the UK
 
 ### 🔭 I’m currently working on ...
 
