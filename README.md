@@ -56,11 +56,15 @@ Here are some ideas to get you started:
 
 </br>
 
+### things completed:
+- I've completed [Harvard's CS50x intro to computer science](https://cs50.harvard.edu/x/2021/) :)
+
 ### 🌱 I’m currently learning
 
 I don't have a formal CS background, most of what I've learned is from online resources, especially [FreeCodeCamp](https://www.freecodecamp.org/).
 
-- I'm currently working through [Harvard's CS50x intro to computer science](https://cs50.harvard.edu/x/2021/)
+- I'm currently working through: learning statistics and data science especially analysing design of experiments, conjoint analysis and maxdiff
+- Along with statistics I'm learning the R programming language.
 
 ### 💬 Ask me about ...
 
