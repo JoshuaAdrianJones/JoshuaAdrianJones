@@ -2,13 +2,11 @@
 
 ### 🔭 I’m currently working on ...
 
-I've made the transition to tech over the last 2 years - I currently guide a team working on data capture (complex surveys) and data analysis products for the market research industry. 
+I've made the transition to tech over the last 3 years - I currently guide a team working on data capture (complex surveys) and data analysis products for the market research industry. 
 
 I write internal tools in Python and Pandas, and support our clients in fast-paced, short-lived projects.
 
-Most recently my side project is a data analysis tool; I've been the sole contributor to a ~3Kloc Python codebase where I have implemented clean architecture, SOLID design principles, and continuous refactoring to keep the app in great shape and ensure it's easy to add new features in the future.
-
-The core is object orientated, loosely coupled Python, and the interface is a PyQT GUI bundled to `.exe` using pyinstaller.
+Most recently my side project is a the product management of a data analysis tool; I've been a technical contributor to a Python codebase and also worked with the wider business on developing take to market strategies, new features, internal training, and a whole other host of activities deliver a product to market.
 
 #### My day job includes:
 - Strategic planning and new product take to market planning
