@@ -2,11 +2,11 @@
 
 ### 🔭 I’m currently working on ...
 
-I've made the transition to tech over the last 3 years - I currently guide a team working on data capture (complex surveys) and data analysis products for the market research industry. 
+I've made the transition to tech over the last 4 years - I currently guide a team working on data capture (complex surveys) and data analysis products for the market research industry. 
 
-I write internal tools in Python and Pandas, and support our clients in fast-paced, short-lived projects.
+I've worked in operations, development and now I'm a product manager.
 
-Most recently my side project is a the product management of a data analysis tool; I've been a technical contributor to a Python codebase and also worked with the wider business on developing take to market strategies, new features, internal training, and a whole other host of activities deliver a product to market.
+I've been a technical contributor to Python codebases and worked with the wider business on developing take to market strategies, new features, internal training, and a whole other host of activities deliver a product to market.
 
 #### My day job includes:
 - Strategic planning and new product take to market planning
