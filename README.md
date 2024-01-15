@@ -10,10 +10,12 @@ I've been a technical contributor to Python codebases and worked with the wider 
 
 #### My day job includes:
 - Strategic planning and new product take to market planning
+- Product discovery and user interviewing
+- Product design, wireframing, working in Figma
+- Product delivery management, working in gitlab/github/Linear/writing tickets.
 - Building MVP's
 - Recruiting and hiring
 - Onboarding, training, and mentoring
-- Business development
 - Team leadership and managing multiple projects
 - Working with CxO level internally and externally
 
@@ -56,6 +58,7 @@ Here are some ideas to get you started:
 
 ### things completed:
 - I've completed [Harvard's CS50x intro to computer science](https://cs50.harvard.edu/x/2021/) :)
+- I've completed the [product management training from Silicon Valley Product Group](https://www.svpg.com/inspired-product-management-workshop/)
 
 ### 🌱 I’m currently learning
 
@@ -63,6 +66,7 @@ I don't have a formal CS background, most of what I've learned is from online re
 
 - I'm currently working through: learning statistics and data science especially analysing design of experiments, conjoint analysis and maxdiff
 - Along with statistics I'm learning the R programming language.
+- I'm learning design and product management
 
 ### 💬 Ask me about ...
 
@@ -72,3 +76,4 @@ I would love to talk about any of: coding, startups, Python, JS, Coffee, Rock cl
 #### In my previous career I made cars for James Bond...
 
  I have strong experience in product management and new product launch from my time in the automotive sector working for [Aston Martin](https://www.astonmartin.com)
+ I'm incredibly proud to be part of the team who delivered the DB11, DB11 Volante (Convertible), DBS, DB11 AMR, DB11 OHMSS special edition and others.
